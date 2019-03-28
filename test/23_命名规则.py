@@ -22,4 +22,10 @@ ______ true
 关键字:
 and class elif for import nonlocal raise with False as
 continue else from in not return yield None assert
+
+命名约定:
+全小写下划线分割法：
+first_name user_name  card_id
+驼峰命名法
+FirstName UserName  CardId
 """
