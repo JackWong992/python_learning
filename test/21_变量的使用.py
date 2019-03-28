@@ -6,4 +6,7 @@
 age = 18
 print(age)
 age = 19
-print(age) 
+print(age)
+
+a = b = 1
+print(a, b)

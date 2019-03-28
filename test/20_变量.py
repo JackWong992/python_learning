@@ -10,3 +10,9 @@ weight = 80.0
 age = 19
 height = 1.9
 print(age, height, weight)
+
+a = 3
+b = 2
+c = a + b
+print(c)
+print('end')
